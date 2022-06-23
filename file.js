@@ -1,0 +1,1 @@
+alert('My Name:Ojuko Ibiyemi' + '\n' + 'Height: 5"' + '\n' + 'My Country: Nigeria')
